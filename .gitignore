@@ -2,4 +2,6 @@ fTask/
 
 .vscode/
 
+__pycache__/
+
 weatherfiles/
